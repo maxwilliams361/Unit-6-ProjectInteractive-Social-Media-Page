@@ -1,0 +1,154 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+    background-color: #abebb1;
+    text-align: center;
+}
+
+.aboutMeImg {
+    width: 130px;
+    border: 1px black solid;
+}
+
+.friendsImg1 {
+    width: 100px;
+    border: 1px black solid;
+
+}
+
+.friendsImg2 {
+    width: 100px;
+    border: 1px black solid;
+
+}
+
+.friendsImg3 {
+    width: 100px;
+    border: 1px black solid;
+
+}
+
+.headerText {
+    font-family: 'Anton', sans-serif;
+}
+
+.navItem,
+.headerItem4 {
+    background-color: #90e0df;
+    border: 1px solid black;
+    margin: 10px;
+    padding: 2px;
+    text-align: center;
+}
+
+.navItem,
+.headerItem5 {
+    background-color: #90e0df;
+    border: 1px solid black;
+    margin: 10px;
+    padding: 2px;
+    text-align: center;
+}
+
+.navItem,
+.headerItem {
+    background-color: #90e0df;
+    border: 1px solid black;
+    margin: 10px;
+    padding: 2px;
+    text-align: center;
+}
+
+
+
+
+.border {
+    border: 1px solid black;
+    padding: 5px;
+    margin: 5px;
+}
+
+.wall {
+    width: 500px;
+    background-color: white;
+}
+
+.aboutMe,
+.friends {
+    width: 200px;
+    background-color: white;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    width: 400px;
+}
+
+.status1 {
+    display: none;
+}
+
+.status2 {
+    display: none;
+}
+
+.status-img1 {
+    display: none;
+}
+
+.status-img2 {
+    display: none;
+}
+
+.stewie-photos {
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.stewie-pic1_border {
+    border: 10px solid #90e0df;
+    margin: 10px;
+    display: none;
+}
+
+.stewie-pic1 {
+    width: 350px;
+    height: 250px;
+    display: none;
+}
+
+.stewie-pic2_border {
+    border: 10px solid #90e0df;
+    margin: 10px;
+    display: none;
+
+}
+
+.stewie-pic2 {
+    width: 350px;
+    height: 250px;
+    display: none;
+}
+
+.about-me-click {
+    display: none;
+}
+
+.arrow {
+    width: 20px;
+}
+
+.arrow-button {
+    display: flex;
+    justify-content: flex-end;
+}
